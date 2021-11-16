@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Grocery2",
+    "slug": "Grocery2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.merchant.merchant",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.merchant.merchant",
+      "versionCode": 1
+    },
+     
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
